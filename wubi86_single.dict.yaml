@@ -1,4 +1,4 @@
-# Rime dictionary: wubi86
+# Rime dictionary: wubi86_singgle
 # encoding: utf-8
 #
 # Changelog
@@ -18,8 +18,8 @@
 # Wozy <wozy.in@gmail.com>
 
 ---
-name: wubi86
-version: "0.7"
+name: wubi86_single
+version: "0.1"
 sort: by_weight
 columns:
   - text
