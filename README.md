@@ -6,6 +6,10 @@
 
 五筆字型 86 版
 
+## 五筆86单字版
+
+  - [wubi86_single.dict.yaml](https://github.com/yekingyan/rime-wubi/blob/master/wubi86_single.dict.yaml) 
+
 ## 安裝
 
 拼音反查、五筆拼音混合輸入依賴於
