@@ -75006,6 +75006,18 @@ U盘	uute	31900000
 𣁕	yyyu	0
 言	yyyy	287000000
 𧮦	yyyy	0
+“”	zzbd	1000
+‘’	zzbd	999
+《》	zzbd	998
+〈〉	zzbd	997
+〔〕	zzbd	996
+「」	zzbd	995
+『』	zzbd	994
+【】	zzbd	993
+〖〗	zzbd	992
+（）	zzbd	991
+［］	zzbd	990
+｛｝	zzbd	989
 ．	zzbd	988
 。	zzbd	987
 ，	zzbd	986
@@ -75100,6 +75112,8 @@ U盘	uute	31900000
 ㎞	zzdw	897
 ㎡	zzdw	896
 nm	zzdw	895
+μm	zzdw	894
+μg	zzdw	893
 ㏄	zzdw	892
 ㏎	zzdw	891
 ㏑	zzdw	890
