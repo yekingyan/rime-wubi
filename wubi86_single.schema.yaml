@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: wubi86_single
+  schema_id: wubi86
   name: "五笔86单字"
   version: "0.1"
   author:
