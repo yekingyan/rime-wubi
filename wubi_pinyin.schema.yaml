@@ -23,9 +23,6 @@ switches:
     states: [ 常用, 增廣 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
-  - name: zhtrad
-    reset: 1
-    states: [简体，繁体]
 
 engine:
   processors:
